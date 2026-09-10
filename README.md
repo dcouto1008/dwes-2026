@@ -6,6 +6,13 @@ Repositorio correspondiente a la asignatura de Desarrollo Web en Entorno Servido
 
 En este proyecto se trabajarán diferentes conceptos relacionados con el desarrollo web, Git y GitHub.
 
+
+## Tecnologías utilizadas
+Git
+GitHub
+PHP
+
+
 ## Estructura del proyecto
 
 ```text
@@ -13,12 +20,7 @@ dwes-2026/
 ├── README.md
 ├── .gitignore
 └── ...
-##
-
-## Tecnologías utilizadas
-Git
-GitHub
-PHP
+```
 
 ## Autor
 Diego Couto
