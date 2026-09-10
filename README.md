@@ -13,11 +13,12 @@ dwes-2026/
 ├── README.md
 ├── .gitignore
 └── ...
+##
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 Git
 GitHub
 PHP
 
-Autor
+## Autor
 Diego Couto
