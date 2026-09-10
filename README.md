@@ -13,3 +13,9 @@ dwes-2026/
 ├── README.md
 ├── .gitignore
 └── ...
+
+## Tecnologías utilizadas
+Git
+GitHub
+PHP
+
